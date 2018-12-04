@@ -1,0 +1,6 @@
+[package]
+name = "rust-experiments"
+version = "0.1.0"
+authors = ["Ilya Bizyaev <bizyaev@zoho.com>"]
+
+[dependencies]
